@@ -31,7 +31,7 @@ def run_web():
     app.run(host="0.0.0.0", port=port)
 # ---------------------------------------------------
 
-BOT_TOKEN = "7969720988:AAHexLCWd8yMmQM7NiMyPhOmyCJ61fOXDwY"
+BOT_TOKEN = "7808230335:AAG4gKjKROwjRJhodEWSJSVYLSlhFXHhrXQ"
 CHANNEL_USERNAME = "HUESAchannel"  # No @
 CHANNEL_ID = -1002040479523
 
